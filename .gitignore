@@ -1,2 +1,3 @@
-__pycache__
-vscode-root/
+Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
